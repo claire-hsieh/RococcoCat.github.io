@@ -1,0 +1,45 @@
+# section information
+section:
+  name: Experiences
+  id: experiences
+  enable: true
+  weight: 3
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true 
+
+# Your experiences
+experiences:
+- company:
+    name: Topological Molecular Biology Lab
+    url: "https://arsuaga-vazquez-lab.faculty.ucdavis.edu/"
+    location: UC Davis
+    # company overview
+    overview: We utilize topological methods to study the 3D organization of DNA and proteins.
+  positions:
+  - designation: Research Assistant
+    start: April 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Utilize profile HMMs in predicting SARS-CoV-2 mutation probabilities by adding weights based on country
+    - Clean and align genomic data sets (Clustal Omega, MUSCLE, MAFFT)
+    - Grow and collect microbial cultures
+    - Set up and perform gel electrophoresis 
+    - Prepare frozen samples using GP2 and image using CryoEM
+
+- company:
+    name: Quicklinks Advisor 365
+    url: "https://qna365.com"
+    location: Chino
+    # company overview
+    overview: We pr
+  positions:
+  - designation: Accounting Assistant
+    start: Aug 2020    
+    responsibilities:
+    - Reconcile transactions and identify discrepancies
+    - Create and update financial statements
+
+

@@ -1,0 +1,15 @@
+# section information
+section:
+  name: Education
+  id: achievements
+  enable: false
+  weight: 6
+  showOnNavbar: true
+  # Can optionally hide the title in sections
+  # hideTitle: true
+
+# Your achievements achievements
+achievements:
+- title: University of California, Davis
+  # image: /images/sections/achievements/presenter.jpg
+  summary: BA in Genetics and Genomics, expected graduation June 2024
