@@ -1,0 +1,6 @@
+section:
+  name: Portfolio
+  id: portfolio
+  enable: true
+  weight: 6
+  showOnNavbar: true	

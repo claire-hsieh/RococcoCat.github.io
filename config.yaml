@@ -37,7 +37,7 @@ params:
   newsletter:
     enable: true
 
-  background: "images/pexels-madison-inouye-2622186.jpg"
+  background: "images/chicken.jpg"
 
   logo:
     main: images/logo2.png
