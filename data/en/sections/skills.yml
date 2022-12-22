@@ -18,9 +18,9 @@ skills:
 
 - name: Matlab
   logo: "/images/skills/Matlab_Logo.png"
-  summary: "something about monte carlo experiments and creatign graphs"
+  summary: "Able to create predictive models and simulations"
   url: "https://golang.org/"
 
 - name: R
   logo: "/images/skills/Rlogo.svg"
-  summary: "something about creating statistical models"
+  summary: "Able to create linear regression models"
