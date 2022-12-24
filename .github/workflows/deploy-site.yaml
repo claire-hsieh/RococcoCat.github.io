@@ -9,6 +9,9 @@ on:
 jobs:
   deploy:
     runs-on: ubuntu-latest
+    runs:
+      using: 'node16'
+      main: 'main.js'
     steps:
     # checkout to the commit that has been pushed
     - uses: actions/checkout@v3

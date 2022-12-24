@@ -1,5 +1,4 @@
 baseURL: http://localhost:1313
-url = git@github.com:RococcoCat/RococcoCat.github.io.git
 
 languageCode: en-us
 title: "Claire's Personal Portfolio"
