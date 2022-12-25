@@ -1,3 +1,6 @@
+name: action
+description: run using node 16
+
 runs:
   using: 'node16'
   main: 'main.js'
