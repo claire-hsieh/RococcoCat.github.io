@@ -26,8 +26,24 @@ experiences:
     - Utilize profile HMMs in predicting SARS-CoV-2 mutation probabilities by adding weights based on country
     - Clean and align genomic data sets (Clustal Omega, MUSCLE, MAFFT)
     - Grow and collect microbial cultures
+    - Extract DNA using miniprep and measure DNA concentration using Nanodrop
     - Set up and perform gel electrophoresis 
     - Prepare frozen samples using GP2 and image using CryoEM
+- company:
+    name: Korf Lab
+    url: "http://korflab.ucdavis.edu/about.html"
+    location: UC Davis
+    # company overview
+    overview: The Korf lab studies the structure and function of various genes and genetic elements using computational methods.
+  positions:
+  - designation: Research Assistant
+    start: Dec 2022
+    # don't provide end date if you are currently working there. It will be replaced by "Present"
+    # end: Dec 2020
+    # give some points about what was your responsibilities at the company.
+    responsibilities:
+    - Design python programs that utilize intron position in the prediction of gene enhancement
+    - Design algorithms to find motifs using discretized position weight matrices
 
 - company:
     name: Quicklinks Advisor 365

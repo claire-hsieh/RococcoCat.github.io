@@ -16,11 +16,19 @@ skills:
   summary: "Capable of utilizing data structures and Python packages (Pandas, Numpy) to create predictive models"
   url: "https://kubernetes.io/"
 
+- name: Linux
+  logo: "/images/skills/linux.jpg"
+  summary: " Able to navigate the Linux command line environment and create bash scripts"
+
+- name: Perl
+  logo: "/images/skills/perl.png"
+  summary: "Capable of building basic algorithms using Perl"
+
+- name: R
+  logo: "/images/skills/Rlogo.svg"
+  summary: "Able to create linear regression models and use various data visualization methods"
+
 - name: Matlab
   logo: "/images/skills/Matlab_Logo.png"
   summary: "Able to create predictive models and simulations"
   url: "https://golang.org/"
-
-- name: R
-  logo: "/images/skills/Rlogo.svg"
-  summary: "Able to create linear regression models"
