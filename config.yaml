@@ -51,7 +51,7 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: images/begonia-7875959_1920.jpg
+  background: images/ferns-7391561_1920.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
@@ -154,8 +154,8 @@ params:
         # counterDev:
         #   id: <your counterdev id>
         # # GoatCounter
-        # goatCounter:
-        #   code: <your goat counter code>
+        goatCounter:
+           code: <script data-goatcounter="https://chico.goatcounter.com/count"        async src="//gc.zgo.at/count.js"></script>
         # # Matomo / Piwik
         # matomo:
         #   instance: matomo.example.com
