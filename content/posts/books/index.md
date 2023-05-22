@@ -51,6 +51,7 @@ The best military, sci-fi novel of the 21st century at least until book 6 comes 
 Again, Donna Tartt is a *phenomenal* writer so she has **two** books on my top ten list.  
 
 **10. The Gene: An Intimate History**
+
 The start of my career as a geneticist. Thank you Dr. Mukherjee. 
 
 [Goodreads](https://www.goodreads.com/user/show/37787687-claire-hsieh)
