@@ -16,7 +16,7 @@ My top ten books:
 
 **1. The Goldfinch**  
 
-Every page of this hefty tome is a work of art. I honestly can't think of a book with scenes that are so beautifully designed. Reading this book was about as easy as watching a movie, absolutely seamless transition from the page to a visual in your mind. 
+Every page of this hefty tome is a work of art. Reading this book was about as easy as watching a movie, absolutely seamless transition from the page to a visual in your mind. It's beautiful to see a (very human, very flawed) character grow up, admist tragedies, build friendships, some fleeting and some life-changing, and eventually just navigate life. Which all sounds very cliche and overdone in the bildungsroman genre, but what I think the Goldfinch does best is that Theo, the protagonist, is never made out to be especially talented or 
 
 **2. Ender's Game**
 
@@ -24,7 +24,7 @@ Controversial opionion but I think Speaker for the Dead was actually a really go
 
 **3. Wind, Sand, and Stars** 
 
-Read to discover the meaning of life.
+You would think a book written by a French pilot with a plane on the cover would primarily be about aircraft and flight and you wouldn't be wrong but it's more than that. The plane is a tool for St. Exupery, somehow removing him from the rest of humanity but at the same time bringing him closer to other people and to nature. It's a beautiful book and every page makes you want to sink into his story and just marvel at the world. Written in the 30s, the world was more disconnected then but he voices the same fears that people have now of machines and their displacement of people. But then, and even more so now, technology brings people together in ways that we couldn't imagine a few hundred years ago. Telegrams allowing us to communicate across oceans and smartphones giving us access to friends and family at any hour of the day. The most poignant part of this book was the simple realization that as incredible as modern innovations can be, the only thing that *really* matters is other people and the relationships we form along the way, which sounds cheesy but I think it's very true and I would hate to forget that. 
 
 **4. The Name of the Wind**
 
