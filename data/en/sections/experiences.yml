@@ -13,7 +13,7 @@ experiences:
 - company:
     name: Topological Molecular Biology Lab
     url: "https://arsuaga-vazquez-lab.faculty.ucdavis.edu/"
-    location: UC Davis
+    location: Davis, CA
     # company overview
     overview: The Arsuaga-Vasquez lab utilizes topological methods to study the 3D organization of DNA and proteins.
   positions:
@@ -25,14 +25,14 @@ experiences:
     responsibilities:
     - Utilize profile HMMs in predicting SARS-CoV-2 mutation probabilities by adding weights based on country
     - Clean and align genomic data sets (Clustal Omega, MUSCLE, MAFFT)
-    - Grow and collect microbial cultures
-    - Extract DNA using miniprep and measure DNA concentration using Nanodrop
-    - Set up and perform gel electrophoresis 
-    - Prepare frozen samples using GP2 and image using CryoEM
+    - Grow and collect viral cultures and extract DNA using miniprep or chloroform
+    - Set up and perform gel electrophoresis
+    - Prepare frozen protein samples using GP2 and image using Cryo-EM
+    - Design primers and perform qPCR to determine the concentration of DNA in viral phage samples
 - company:
     name: Korf Lab
     url: "http://korflab.ucdavis.edu/about.html"
-    location: UC Davis
+    location: Davis, CA
     # company overview
     overview: The Korf lab studies the structure and function of various genes and genetic elements using computational methods.
   positions:
@@ -43,12 +43,12 @@ experiences:
     # give some points about what was your responsibilities at the company.
     responsibilities:
     - Design python programs that utilize intron position in the prediction of gene enhancement
+    - BLAST genomes to find introns with possible roles in gene regulation
     - Design algorithms to find motifs using discretized position weight matrices
-
 - company:
     name: Quicklinks Advisor 365
     url: "https://qna365.com"
-    location: Chino
+    location: Chino, CA
     # company overview
     overview: Quicklinks Advisor 365 provides accounting and bookkeeping services, Quickbooks consulting and training, and tax preparation and planning.
   positions:

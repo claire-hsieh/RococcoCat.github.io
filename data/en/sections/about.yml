@@ -12,7 +12,7 @@ designation: Student
 # your company information
 company:
   name: UC Davis
-  # url: "https://www.example.com"
+  url: "https://www.ucdavis.edu/"
 
 # your resume. this file path should be relative to you "static" directory
 resume: "files/Resume.pdf"
@@ -22,10 +22,10 @@ cv: "files/CV.pdf"
 # You can also show a circular bar indicating the level of expertise on a certain skill
 # badges:
 # - type: certification
-#  name: Scientific Computing with Python
-#   url: "https://www.freecodecamp.org/certification/Claire_Hsieh/scientific-computing-with-python-v7"
-#   badge: "https://images.credly.com/size/680x680/images/f4bf92ed-8985-40b2-bc07-2f9308780854/kubernetes-security-specialist-logo-examdev.png"
-
+# name: Scientific Computing with Python
+# url: "https://www.freecodecamp.org/certification/Claire_Hsieh/scientific-computing-with-python-v7"
+# badge: "https://i.pcmag.com/imagery/reviews/01tPXClg2WjLamQzScplH3y-15.fit_lim.size_1050x591.v1627670281.png"
+  
 # a summary about you
 summary: 'I am a student majoring in Genetics and Genomics and am particularly interested in Comparitive Genomics and utilizing bioinformatics to aid drug discovery. Math and computer science have always been a passion of mine and I am so glad to have found a field that applies these techniques in biology.'
 

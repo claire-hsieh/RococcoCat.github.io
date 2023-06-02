@@ -13,8 +13,7 @@ section:
 skills:
 - name: Python
   logo: "/images/skills/python-logo-only.svg"
-  summary: "Capable of utilizing data structures and Python packages (Pandas, Numpy) to create predictive models"
-  url: "https://kubernetes.io/"
+  summary: "Capable of utilizing data structures and Python packages (Pandas, Numpy) to create predictive models and general purpose algorithms"
 
 - name: Linux
   logo: "/images/skills/linux.jpg"
@@ -26,9 +25,8 @@ skills:
 
 - name: R
   logo: "/images/skills/Rlogo.svg"
-  summary: "Able to create linear regression models and use various data visualization methods"
+  summary: "Able to create regression, classification, and prediction models and use various data visualization methods"
 
 - name: Matlab
   logo: "/images/skills/Matlab_Logo.png"
   summary: "Able to create predictive models and simulations"
-  url: "https://golang.org/"
