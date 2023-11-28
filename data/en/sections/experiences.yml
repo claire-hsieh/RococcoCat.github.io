@@ -23,12 +23,15 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Utilize profile HMMs in predicting SARS-CoV-2 mutation probabilities by adding weights based on country
-    - Clean and align genomic data sets (Clustal Omega, MUSCLE, MAFFT)
-    - Grow and collect viral cultures and extract DNA using miniprep or chloroform
-    - Set up and perform gel electrophoresis
-    - Prepare frozen protein samples using GP2 and image using Cryo-EM
-    - Design primers and perform qPCR to determine the concentration of DNA in viral phage samples
+    - Analyzed viral datasets to extract and annotate proteins using sequence and structuralsimilarity
+    - Utilized profile HMMs in predicting SARS COV-2 mutation probabilities weighted by country
+    - Cleaned and aligned genomic datasets using MAFFT and Clustal Omega
+    - Grew and collected microbial cultures
+    - Set up and performed gel electrophoresis
+    - Prepared frozen samples using GP2 and imaged using Cryo-EM
+    - Designed primers and performed qPCR to quantify DNA
+    - Extracted DNA using miniprep or chloroform
+
 - company:
     name: Korf Lab
     url: "http://korflab.ucdavis.edu/about.html"
@@ -42,9 +45,24 @@ experiences:
     # end: Dec 2020
     # give some points about what was your responsibilities at the company.
     responsibilities:
-    - Design python programs that utilize intron position in the prediction of gene enhancement
-    - BLAST genomes to find introns with possible roles in gene regulation
-    - Design algorithms to find motifs using discretized position weight matrices
+    - Developed Python programs that use intron position to predict gene enhancement
+    - Examined orthologous genes to identify introns with potential for enhancing genes
+    - Created algorithms to identify motifs using discretized position weight matrices, regular
+    expressions, and k-mers
+    - Implemented a Stochastic Viterbi and forward-backwards algorithm in Python to generate
+    random, probable isoforms
+- company:
+    name: Irvine Summer Institute in Biostatistics and Undergraduate Data Science
+    url: "https://isi-buds.github.io/program-2023/"
+    location: Irvine, CA
+    overview: A six-week program that focused on teaching students the fundamentals of statistical research through both classroom and hands-on research experience. At the end of the program, students presented their findings at a symposium.
+    # company overview
+  positions:
+  - designation: Biostatistics Intern
+    start: Jul 2023
+    responsibilities:
+    - Learned fundamentals of probability, Monte Carlo methods, linear models, generalized linear models, causal inference, and Bayesian statistics
+    - Used R and machine learning to predict presence of colorectal cancer using metabolomics
 - company:
     name: Quicklinks Advisor 365
     url: "https://qna365.com"
