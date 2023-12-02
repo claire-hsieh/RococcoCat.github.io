@@ -48,8 +48,7 @@ experiences:
     - Developed Python programs that use intron position to predict gene enhancement
     - Examined orthologous genes to identify introns with potential for enhancing genes
     - Created algorithms to identify motifs using discretized position weight matrices, regular expressions, and k-mers
-    - Implemented a Stochastic Viterbi and forward-backwards algorithm in Python to generate
-    random, probable isoforms
+    - Implemented a Stochastic Viterbi and forward-backwards algorithm in Python to generate random, probable isoforms
 - company:
     name: Irvine Summer Institute in Biostatistics and Undergraduate Data Science
     url: "https://isi-buds.github.io/program-2023/"
