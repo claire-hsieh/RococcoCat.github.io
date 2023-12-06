@@ -18,9 +18,10 @@ jobs:
       with:
         hugo-version: 'latest'
         extended: true
-
-    - name: Update Hugo Modules
-      run: hugo mod tidy
+    - name: Install Node.js dependencies
+      run: "[[ -f package-lock.json || -f npm-shrinkwrap.json ]] && npm ci || true"
+        - name: Update Hugo Modules
+          run: hugo mod tidy
 
     - name: Setup Node
       uses: actions/setup-node@v3
