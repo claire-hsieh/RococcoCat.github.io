@@ -18,7 +18,7 @@ degrees:
     url: "#"
   grade: #(optional)
     scale: GPA
-    achieved: 3.71
+    achieved: 3.736
     outOf: 4
   #publications: #(optional)
   #- title: Lorem ipsum dolor sit amet, consectetur adipiscing elit.
@@ -53,6 +53,7 @@ degrees:
     - name: Theory & Practice of Bioinformatics
       achieved: 4
       outOf: 4
+      
   extracurricularActivities: #(optional)
   - Social Media Officer of the Davis Data Science Club
   - Member of the Aggie Fiction Writing Workshop

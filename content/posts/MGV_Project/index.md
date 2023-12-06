@@ -1,7 +1,7 @@
 ---
-title: "Metagenomic Project"
+title: "MGV Project"
 date: 2023-11-27T23:20:10-07:00
-hero: /images/posts/pexels-lena-khrupina-2683373.jpg
+hero: /images/posts/Screenshot 2023-12-05 170231.png
 description: Project Analyzing Connector Protein from Viral Database
 theme: Toha
 menu:
@@ -11,11 +11,14 @@ menu:
     weight: 50
 ---
 
-Our project for HackDavis 2023:
+# Analyzing Connector Protein from MGV Database 
+- The MGV database contains 189,000 viral sequences sampled from the bacteriophages residing in the human gut. Many of these viruses were previously unknown and the goal of this project is to create a general structure of the connector protein by obtaining and modeling many connector proteins whose sequences are available in the database. 
 
-[Trouble in Moo Town](https://saisuresh2.github.io/davis_adventure_game/)
+## Obtaining the Sequences
+- Because connector proteins are not well conserved, sequence similarity will not be very high. Therefore, we will BLAST the connector protein domains against the database (rather than entire sequences) to find the connector protein. 
 
-This project was inspired by our desire to build a game that would encourage folks to go outside and appreciate our beautiful campus. We decided to integrate this idea with a tour-like game that would help incoming freshmen and transfers navigate our huge campus!
+## Modeling
+- We will be using AlphaFold(monomer) and SWISS-MODEL(quaternary structure) to model the connector protein.
 
 
-Made in collaboration with Sai Suresh, Jenna Noueihed, and Meghana Manepalli.
+{{< embed-pdf url="/images/posts/MGV_Progress_11-17.pdf" hidePaginator="true" >}}
