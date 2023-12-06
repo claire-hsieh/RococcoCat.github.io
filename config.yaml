@@ -61,7 +61,7 @@ params:
     # favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/claire-hsieh/RococcoCat.github.io
+  gitRepo: https://github.com/claire-hsieh/claire-hsieh.github.io
   # Default branch of your Git repo
   gitBranch: main
 
