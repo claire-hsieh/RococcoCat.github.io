@@ -1,6 +1,6 @@
 name: action
-description: run using node 16
+description: run using node 20
 
 runs:
-  using: 'node16'
+  using: 'node20'
   main: 'main.js'

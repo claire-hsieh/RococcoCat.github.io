@@ -113,7 +113,7 @@ const vimeo = {
       autoplay: player.autoplay,
       muted: player.muted,
       gesture: 'media',
-      playsinline: player.config.playsinline,
+      playsinline: !this.config.fullscreen.iosNative,
       // hash has to be added to iframe-URL
       ...hashParam,
       ...frameParams,
@@ -265,7 +265,7 @@ const vimeo = {
       set(input) {
         const toggle = is.boolean(input) ? input : false;
 
-        player.embed.setMuted(toggle ? true : player.config.muted).then(() => {
+        player.embed.setVolume(toggle ? 0 : player.config.volume).then(() => {
           muted = toggle;
           triggerEvent.call(player, player.media, 'volumechange');
         });

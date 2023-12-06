@@ -1,8 +1,12 @@
 {
   "version": "0.2",
-  "ignorePaths": ["package.json", "dist/*", "demo/node_modules/*"],
+  "ignorePaths": [
+    "package.json",
+    "dist/*",
+    "demo/node_modules/*"
+  ],
   "dictionaryDefinitions": [],
-  "dictionaries": ["en-gb", "softwareTerms", "html", "css", "typescript"],
+  "dictionaries": [],
   "words": [
     "autopause",
     "autoplay",

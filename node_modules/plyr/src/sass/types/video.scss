@@ -6,6 +6,7 @@
 
 // Container
 .plyr--video {
+  background: var(--plyr-video-background, $plyr-video-background);
   overflow: hidden;
 
   &.plyr--menu-open {
@@ -15,7 +16,6 @@
 
 .plyr__video-wrapper {
   background: var(--plyr-video-background, $plyr-video-background);
-  border-radius: inherit;
   height: 100%;
   margin: auto;
   overflow: hidden;
@@ -87,7 +87,8 @@ $embed-padding: (math.div(100, 16) * 9);
 
 // Control elements
 .plyr--video .plyr__control {
-  &:focus-visible,
+  // Hover and tab focus
+  &.plyr__tab-focus,
   &:hover,
   &[aria-expanded='true'] {
     background: $plyr-video-control-background-hover;

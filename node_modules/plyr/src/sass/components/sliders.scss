@@ -83,17 +83,17 @@
     outline: 0;
   }
 
-  &:focus-visible {
+  &.plyr__tab-focus {
     &::-webkit-slider-runnable-track {
-      @include plyr-focus-visible;
+      @include plyr-tab-focus;
     }
 
     &::-moz-range-track {
-      @include plyr-focus-visible;
+      @include plyr-tab-focus;
     }
 
     &::-ms-track {
-      @include plyr-focus-visible;
+      @include plyr-tab-focus;
     }
   }
 }

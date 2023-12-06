@@ -28,8 +28,8 @@
   }
 
   // Tab focus
-  &:focus-visible {
-    @include plyr-focus-visible;
+  &.plyr__tab-focus {
+    @include plyr-tab-focus;
   }
 }
 

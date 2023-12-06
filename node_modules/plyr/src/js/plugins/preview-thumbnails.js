@@ -123,9 +123,6 @@ class PreviewThumbnails {
       // Check to see if thumb container size was specified manually in CSS
       this.determineContainerAutoSizing();
 
-      // Set up listeners
-      this.listeners();
-
       this.loaded = true;
     });
   };
