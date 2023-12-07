@@ -51,13 +51,13 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: images/ferns-7391561_1920.jpg
+  background: /images/ferns-7391561_1920.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: images/logo2.png
-    inverted: images/logo2.png
+    main: /images/logo2.png
+    inverted: /images/logo2.png
     # favicon: /images/site/favicon.png
 
   # GitHub repo of your site
@@ -65,7 +65,7 @@ params:
   # Default branch of your Git repo
   gitBranch: main
 
-  # Configure the number of section title visible in the top navbar
+   # Configure the number of section title visible in the top navbar
   topNavbar:
     maxVisibleSections: 5
 
@@ -75,15 +75,6 @@ params:
     # Enable dark theme
     darkMode:
       enable: false
-      services:
-        darkreader:
-          defaultColorScheme: system # options are 'system', 'dark', 'light'
-          fixes:
-            invert: ['img[src$=".svg"]'] # inverts svg colors.
-          theme:
-            brightness: 100
-            contrast: 100
-            sepia: 0
 
     # Enable and configure portfolio
     portfolio:
@@ -154,8 +145,8 @@ params:
         # counterDev:
         #   id: <your counterdev id>
         # # GoatCounter
-        goatCounter:
-           code: <script data-goatcounter="https://chico.goatcounter.com/count"        async src="//gc.zgo.at/count.js"></script>
+        # goatCounter:
+        #   code: <your goat counter code>
         # # Matomo / Piwik
         # matomo:
         #   instance: matomo.example.com
@@ -183,6 +174,7 @@ params:
     # Show tags under the post title
     tags:
       enable: true
+      on_card: true # enables tags in post cards
 
     # Specify whether to show flag in the language selector. Default is true.
     flags:
@@ -207,7 +199,7 @@ params:
 
     # Enable this to create mathematic expressions using `$$` blocks
     math:
-      enable: false
+      enable: true
       services:
         # https://katex.org/docs/autorender.html#api for more configurations
         katex:
@@ -254,6 +246,10 @@ params:
         plyr:
           # options doc: https://github.com/sampotts/plyr#options
           # fullscreen: true
+    
+        # Enable reading time support in post cards and in post pages
+    readingTime:
+      enable: false
 
 
   # Provide footer configuration.
@@ -277,7 +273,7 @@ params:
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: false
+      enable: true
       provider: mailchimp
       mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
 
