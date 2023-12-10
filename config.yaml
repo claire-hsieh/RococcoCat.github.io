@@ -6,7 +6,7 @@ title: "Claire's Personal Portfolio"
 # Use Hugo modules to add theme
 module:
   imports:
-  - path: github.com/hugo-toha/toha
+  - path: https://github.com/hugo-toha/toha.git
   mounts:
   - source: static/files
     target: static/files
