@@ -3,7 +3,7 @@
 	url = https://github.com/hugo-toha/toha.git
 [submodule "toha"]
 	path = toha
-	url = https://github.com/hugo-toha/toha
+	url = https://github.com/hugo-toha/toha.git
 [submodule "exampleSite/themes/toha"]
 	path = exampleSite/themes/toha
 	url = https://github.com/hugo-toha/toha.git
