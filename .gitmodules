@@ -6,7 +6,7 @@
 	url = https://github.com/hugo-toha/toha
 [submodule "exampleSite/themes/toha"]
 	path = exampleSite/themes/toha
-	url = https://github.com/hugo-toha/toha
+	url = https://github.com/hugo-toha/toha.git
 [submodule "themes/hugo-embed-pdf-shortcode"]
 	path = themes/hugo-embed-pdf-shortcode
 	url = https://github.com/anvithks/hugo-embed-pdf-shortcode.git
