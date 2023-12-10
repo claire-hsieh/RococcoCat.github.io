@@ -1,6 +1,6 @@
 module github.com/hugo-toha/toha/exampleSite
 
-go 1.21.4
+go 1.21
 
 require (
 	github.com/hugo-toha/hugo-toha.github.io v0.0.0-20231031082630-2c32a26d2207 // indirect
