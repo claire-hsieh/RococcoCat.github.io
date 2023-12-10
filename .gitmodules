@@ -1,6 +1,3 @@
 [submodule "themes/hugo-embed-pdf-shortcode"]
 	path = themes/hugo-embed-pdf-shortcode
 	url = https://github.com/anvithks/hugo-embed-pdf-shortcode.git
-[submodule "themes/Toha"]
-	path = themes/Toha
-	url = https://github.com/hugo-toha/toha.git
