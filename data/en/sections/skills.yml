@@ -17,7 +17,7 @@ skills:
 
 - name: Linux
   logo: "/images/skills/linux.jpg"
-  summary: " Able to navigate the Linux command line environment and create bash scripts"
+  summary: "Used for bioinformatics processing (ie BLAST). Capable of writing bash/shell scripts."
 
 - name: Perl
   logo: "/images/skills/perl.png"
@@ -25,7 +25,7 @@ skills:
 
 - name: R
   logo: "/images/skills/Rlogo.svg"
-  summary: "Able to create regression, classification, and prediction models and use various data visualization methods"
+  summary: "Able to create regression, classification, and prediction models as well as various data visualization methods"
 
 - name: Matlab
   logo: "/images/skills/Matlab_Logo.png"
