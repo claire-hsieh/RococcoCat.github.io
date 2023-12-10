@@ -1,4 +1,4 @@
-module github.com/hugo-toha/toha/exampleSite
+module exampleSite/themes/toha
 
 go 1.21
 
