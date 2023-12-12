@@ -1,7 +1,7 @@
-baseURL: https://claire-hsiehs-portfolio.github.io
+baseURL: https://hugo-toha.github.io
 
 languageCode: en-us
-title: "Claire's Personal Portfolio"
+title: "Claire's Portfolio"
 
 # Use Hugo modules to add theme
 module:
@@ -23,7 +23,7 @@ languages:
   en:
     languageName: English
     weight: 1
-    
+
 # Force a locale to be use, really useful to develop the application ! Should be commented in production, the "weight" should rocks.
 # DefaultContentLanguage: bn
 
@@ -51,21 +51,21 @@ enableEmoji: true
 # Site parameters
 params:
   # Background image of the landing page
-  background: /images/ferns-7391561_1920.jpg
+  background: /images/site/ferns.jpg
 
   # Provide logos for your site. The inverted logo will be used in the initial
   # transparent navbar and the main logo will be used in the non-transparent navbar.
   logo:
-    main: /images/logo2.png
-    inverted: /images/logo2.png
-    # favicon: /images/site/favicon.png
+    main: /images/site/main-logo.png
+    inverted: /images/site/logo2.png
+    favicon: /images/site/logo.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/claire-hsieh/claire-hsieh.github.io
+  gitRepo: https://github.com/claire-hsieh/claire-hsieh.github.io.git
   # Default branch of your Git repo
   gitBranch: main
 
-   # Configure the number of section title visible in the top navbar
+  # Configure the number of section title visible in the top navbar
   topNavbar:
     maxVisibleSections: 5
 
@@ -78,7 +78,7 @@ params:
 
     # Enable and configure portfolio
     portfolio:
-      enable: true
+      enable: false
 
     # Enable and configure blog posts
     blog:
@@ -186,16 +186,16 @@ params:
 
     # Enable this to use `embed-pdf` shortcode.
     embedpdf:
-      enable: false
+      enable: true
 
     # Enable this to create flowcharts using shortcodes.
     flowchart:
-      enable: false
+      enable: true
       services:
         # Uncomment for `mermaid` shortcode.
         mermaid:
           # For config options, see: https://mermaid-js.github.io/mermaid/#/Setup?id=configuration
-          # theme: dark
+          theme: forest
 
     # Enable this to create mathematic expressions using `$$` blocks
     math:
@@ -273,9 +273,9 @@ params:
     # Show/hide newsletter section in the footer. Default is "true".
     # Currently, it supports "mailchimp".
     newsletter:
-      enable: true
-      provider: mailchimp
-      mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
+      enable: false
+      # provider: mailchimp
+      # mailchimpURL: https://github.us1.list-manage.com/subscribe/post?u=19de52a4603135aae97163fd8&amp;id=094a24c76e
 
     # Show/hide disclaimer notice in the footer. Default is "false".
     disclaimer:
